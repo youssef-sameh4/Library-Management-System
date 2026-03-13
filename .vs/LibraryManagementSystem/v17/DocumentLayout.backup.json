@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\reviewoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\reviewoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\returnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\memberoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\memberoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\librarianoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\librarianoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\fineoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\fineoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\categoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\categoryoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\borrowtransactionoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\borrowtransactionoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\bookoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\operations\\authoroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:operations\\authoroperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\fine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\borrowtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:entity\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\publisherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\publisherconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\memberconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\authorconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\librarianconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\librarianconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\borrowtransactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\borrowtransactionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\fineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\fineconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\config\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\config\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|c:\\users\\compu\\source\\repos\\librarymanagementsystem\\migrations\\20260310060918_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5594A813-1984-41FC-ABDD-09BA8966F5F3}|LibraryManagementSystem.csproj|solutionrelative:migrations\\20260310060918_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\CategoryOperation.cs",
+              "RelativeDocumentMoniker": "Operations\\CategoryOperation.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\CategoryOperation.cs",
+              "RelativeToolTip": "Operations\\CategoryOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:21:44.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FineOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\FineOperation.cs",
+              "RelativeDocumentMoniker": "Operations\\FineOperation.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\FineOperation.cs",
+              "RelativeToolTip": "Operations\\FineOperation.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:45:43.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibrarianOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\LibrarianOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\LibrarianOperations.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\LibrarianOperations.cs",
+              "RelativeToolTip": "Operations\\LibrarianOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:15:39.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\MemberOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\MemberOperations.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\MemberOperations.cs",
+              "RelativeToolTip": "Operations\\MemberOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:35:52.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReturnBook.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\ReturnBook.cs",
+              "RelativeDocumentMoniker": "Operations\\ReturnBook.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\ReturnBook.cs",
+              "RelativeToolTip": "Operations\\ReturnBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:50:40.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReviewOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\ReviewOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\ReviewOperations.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\ReviewOperations.cs",
+              "RelativeToolTip": "Operations\\ReviewOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:18:17.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\MainMenu.cs",
+              "RelativeToolTip": "MainMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:46:31.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:52:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowTransactionOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\BorrowTransactionOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\BorrowTransactionOperations.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\BorrowTransactionOperations.cs",
+              "RelativeToolTip": "Operations\\BorrowTransactionOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T06:57:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\BookOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\BookOperations.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\BookOperations.cs",
+              "RelativeToolTip": "Operations\\BookOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:37:39.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\AuthorOperations.cs",
+              "RelativeDocumentMoniker": "Operations\\AuthorOperations.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Operations\\AuthorOperations.cs",
+              "RelativeToolTip": "Operations\\AuthorOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:17:52.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Review.cs",
+              "RelativeDocumentMoniker": "Entity\\Review.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Review.cs",
+              "RelativeToolTip": "Entity\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:31:25.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Reservation.cs",
+              "RelativeDocumentMoniker": "Entity\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Reservation.cs",
+              "RelativeToolTip": "Entity\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:23:15.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Publisher.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Publisher.cs",
+              "RelativeDocumentMoniker": "Entity\\Publisher.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Publisher.cs",
+              "RelativeToolTip": "Entity\\Publisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:10:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Member.cs",
+              "RelativeDocumentMoniker": "Entity\\Member.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Member.cs",
+              "RelativeToolTip": "Entity\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:12:41.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Librarian.cs",
+              "RelativeDocumentMoniker": "Entity\\Librarian.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Librarian.cs",
+              "RelativeToolTip": "Entity\\Librarian.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:34:02.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Fine.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Fine.cs",
+              "RelativeDocumentMoniker": "Entity\\Fine.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Fine.cs",
+              "RelativeToolTip": "Entity\\Fine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:27:58.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Category.cs",
+              "RelativeToolTip": "Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:09:06.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BorrowTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\BorrowTransaction.cs",
+              "RelativeDocumentMoniker": "Entity\\BorrowTransaction.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\BorrowTransaction.cs",
+              "RelativeToolTip": "Entity\\BorrowTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:16:31.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Book.cs",
+              "RelativeToolTip": "Entity\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T00:54:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Author.cs",
+              "RelativeDocumentMoniker": "Entity\\Author.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Entity\\Author.cs",
+              "RelativeToolTip": "Entity\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T01:06:59.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:55:40.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\BookConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\BookConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:07:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthorConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\AuthorConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\AuthorConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\AuthorConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\AuthorConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:31:17.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260310060918_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Migrations\\20260310060918_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260310060918_initial.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Migrations\\20260310060918_initial.cs",
+              "RelativeToolTip": "Migrations\\20260310060918_initial.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:09:18.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MemberConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\MemberConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\MemberConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\MemberConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\MemberConfiguration.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:03:18.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PublisherConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\PublisherConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\PublisherConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\PublisherConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\PublisherConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:59:19.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\ReservationConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\ReservationConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:27:34.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LibrarianConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\LibrarianConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\LibrarianConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\LibrarianConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\LibrarianConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:11:51.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BorrowTransactionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\BorrowTransactionConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\BorrowTransactionConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\BorrowTransactionConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\BorrowTransactionConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:19:35.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FineConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\FineConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\FineConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\FineConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\FineConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:29:19.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\Config\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\Config\\ReviewConfiguration.cs",
+              "RelativeToolTip": "Data\\Config\\ReviewConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T05:30:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:24:38.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T09:25:42.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LibraryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\Compu\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "RelativeToolTip": "LibraryManagementSystem.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T09:27:20.644Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
